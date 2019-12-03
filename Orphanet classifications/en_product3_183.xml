@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:59:14" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:59:16" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -14,7 +14,7 @@
       <Name lang="en">Rare hepatic disease</Name>
       <ClassificationNodeList count="1">
         <ClassificationNode>
-          <ClassificationNodeChildList count="9">
+          <ClassificationNodeChildList count="12">
             <ClassificationNode>
               <Disorder id="838">
                 <OrphaNumber>2312</OrphaNumber>
@@ -140,21 +140,39 @@
               </Disorder>
               <ClassificationNodeChildList count="26">
                 <ClassificationNode>
-                  <Disorder id="11953">
-                    <OrphaNumber>90062</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90062</ExpertLink>
-                    <Name lang="en">Acute liver failure</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
                   <Disorder id="873">
                     <OrphaNumber>2137</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2137</ExpertLink>
                     <Name lang="en">Autoimmune hepatitis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="0">
+                  <ClassificationNodeChildList count="3">
+                    <ClassificationNode>
+                      <Disorder id="28362">
+                        <OrphaNumber>563576</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563576</ExpertLink>
+                        <Name lang="en">Autoimmune hepatitis type 1</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28363">
+                        <OrphaNumber>563581</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563581</ExpertLink>
+                        <Name lang="en">Autoimmune hepatitis type 2</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28364">
+                        <OrphaNumber>563589</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563589</ExpertLink>
+                        <Name lang="en">Seronegative autoimmune hepatitis</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -351,6 +369,15 @@
                     <OrphaNumber>217371</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217371</ExpertLink>
                     <Name lang="en">Acute infantile liver failure due to synthesis defect of mtDNA-encoded proteins</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28337">
+                    <OrphaNumber>562639</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562639</ExpertLink>
+                    <Name lang="en">Primary biliary cholangitis/primary sclerosing cholangitis and autoimmune hepatitis overlap syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -1281,7 +1308,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101941</ExpertLink>
                 <Name lang="en">Rare biliary tract disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="19">
+              <ClassificationNodeChildList count="20">
                 <ClassificationNode>
                   <Disorder id="25211">
                     <OrphaNumber>480520</OrphaNumber>
@@ -1370,6 +1397,15 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28337">
+                    <OrphaNumber>562639</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562639</ExpertLink>
+                    <Name lang="en">Primary biliary cholangitis/primary sclerosing cholangitis and autoimmune hepatitis overlap syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -1689,7 +1725,7 @@
                       <Disorder id="23200">
                         <OrphaNumber>424933</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424933</ExpertLink>
-                        <Name lang="en">Rare epithelial tumor of liver and intrahepatic biliary tract</Name>
+                        <Name lang="en">Rare malignant epithelial tumor of liver and intrahepatic biliary tract</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="2">
                         <ClassificationNode>
@@ -1829,6 +1865,33 @@
                 <OrphaNumber>1414</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1414</ExpertLink>
                 <Name lang="en">Cholestasis-lymphedema syndrome</Name>
+              </Disorder>
+              <ClassificationNodeChildList count="0">
+              </ClassificationNodeChildList>
+            </ClassificationNode>
+            <ClassificationNode>
+              <Disorder id="11943">
+                <OrphaNumber>90052</OrphaNumber>
+                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90052</ExpertLink>
+                <Name lang="en">Recurrent hepatitis C virus induced liver disease in liver transplant recipients</Name>
+              </Disorder>
+              <ClassificationNodeChildList count="0">
+              </ClassificationNodeChildList>
+            </ClassificationNode>
+            <ClassificationNode>
+              <Disorder id="11953">
+                <OrphaNumber>90062</OrphaNumber>
+                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90062</ExpertLink>
+                <Name lang="en">Acute liver failure</Name>
+              </Disorder>
+              <ClassificationNodeChildList count="0">
+              </ClassificationNodeChildList>
+            </ClassificationNode>
+            <ClassificationNode>
+              <Disorder id="11964">
+                <OrphaNumber>90073</OrphaNumber>
+                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90073</ExpertLink>
+                <Name lang="en">Hepatitis B reinfection following liver transplantation</Name>
               </Disorder>
               <ClassificationNodeChildList count="0">
               </ClassificationNodeChildList>

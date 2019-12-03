@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:58:30" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:58:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -283,7 +283,7 @@
                           <Disorder id="12922">
                             <OrphaNumber>97548</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97548</ExpertLink>
-                            <Name lang="en">Ivemark syndrome</Name>
+                            <Name lang="en">Right sided atrial isomerism</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -944,7 +944,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98721</ExpertLink>
                         <Name lang="en">Congenital tricuspid malformation</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="9">
+                      <ClassificationNodeChildList count="8">
                         <ClassificationNode>
                           <Disorder id="12600">
                             <OrphaNumber>95459</OrphaNumber>
@@ -1022,15 +1022,6 @@
                             <OrphaNumber>1209</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1209</ExpertLink>
                             <Name lang="en">Tricuspid atresia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="3439">
-                            <OrphaNumber>1864</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1864</ExpertLink>
-                            <Name lang="en">OBSOLETE: Congenital valvular dysplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1983,7 +1974,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156532</ExpertLink>
                 <Name lang="en">Rare syndrome with cardiac malformations</Name>
               </Disorder>
-              <ClassificationNodeChildList count="38">
+              <ClassificationNodeChildList count="39">
                 <ClassificationNode>
                   <Disorder id="25408">
                     <OrphaNumber>488618</OrphaNumber>
@@ -2421,6 +2412,15 @@
                     <OrphaNumber>457193</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457193</ExpertLink>
                     <Name lang="en">Autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28334">
+                    <OrphaNumber>562569</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562569</ExpertLink>
+                    <Name lang="en">TMEM94-associated congenital heart defect-facial dysmorphism-developmental delay syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

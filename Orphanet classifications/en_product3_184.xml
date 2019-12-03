@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:59:16" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:59:18" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -993,7 +993,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101944</ExpertLink>
                 <Name lang="en">Rare pulmonary disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="35">
+              <ClassificationNodeChildList count="38">
                 <ClassificationNode>
                   <Disorder id="49">
                     <OrphaNumber>586</OrphaNumber>
@@ -1748,27 +1748,9 @@
                               <Disorder id="20118">
                                 <OrphaNumber>264724</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=264724</ExpertLink>
-                                <Name lang="en">Langerhans cell histiocytosis specific to childhood</Name>
+                                <Name lang="en">OBSOLETE: Langerhans cell histiocytosis specific to childhood</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="2">
-                                <ClassificationNode>
-                                  <Disorder id="14443">
-                                    <OrphaNumber>99870</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99870</ExpertLink>
-                                    <Name lang="en">Letterer-Siwe disease</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="14445">
-                                    <OrphaNumber>99872</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99872</ExpertLink>
-                                    <Name lang="en">Hashimoto-Pritzker syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -1991,18 +1973,9 @@
                               <Disorder id="20122">
                                 <OrphaNumber>264750</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=264750</ExpertLink>
-                                <Name lang="en">Langerhans cell histiocytosis specific to adulthood</Name>
+                                <Name lang="en">OBSOLETE: Langerhans cell histiocytosis specific to adulthood</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="1">
-                                <ClassificationNode>
-                                  <Disorder id="14447">
-                                    <OrphaNumber>99874</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99874</ExpertLink>
-                                    <Name lang="en">Adult pulmonary Langerhans cell histiocytosis</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
+                              <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                           </ClassificationNodeChildList>
@@ -2160,27 +2133,9 @@
                                   <Disorder id="20129">
                                     <OrphaNumber>264955</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=264955</ExpertLink>
-                                    <Name lang="en">Langerhans cell histiocytosis in childhood and adulthood</Name>
+                                    <Name lang="en">OBSOLETE: Langerhans cell histiocytosis in childhood and adulthood</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="2">
-                                    <ClassificationNode>
-                                      <Disorder id="14444">
-                                        <OrphaNumber>99871</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99871</ExpertLink>
-                                        <Name lang="en">Eosinophilic granuloma</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
-                                    <ClassificationNode>
-                                      <Disorder id="14446">
-                                        <OrphaNumber>99873</OrphaNumber>
-                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99873</ExpertLink>
-                                        <Name lang="en">Hand-Schüller-Christian disease</Name>
-                                      </Disorder>
-                                      <ClassificationNodeChildList count="0">
-                                      </ClassificationNodeChildList>
-                                    </ClassificationNode>
+                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
@@ -2444,6 +2399,15 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="21958">
+                    <OrphaNumber>330012</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=330012</ExpertLink>
+                    <Name lang="en">High altitude pulmonary edema</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="20900">
                     <OrphaNumber>293987</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=293987</ExpertLink>
@@ -2457,6 +2421,15 @@
                     <OrphaNumber>505248</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=505248</ExpertLink>
                     <Name lang="en">Mucopolysaccharidosis-like syndrome with congenital heart defects and hematopoietic disorders</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="11957">
+                    <OrphaNumber>90066</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90066</ExpertLink>
+                    <Name lang="en">Pneumonia caused by Pseudomonas aeruginosa infection</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -2502,6 +2475,15 @@
                     <OrphaNumber>661</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=661</ExpertLink>
                     <Name lang="en">Ondine syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="18823">
+                    <OrphaNumber>217080</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217080</ExpertLink>
+                    <Name lang="en">Pulmonary fungal infections in patients deemed at risk</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

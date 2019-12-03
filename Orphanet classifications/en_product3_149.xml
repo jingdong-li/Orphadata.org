@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:58:32" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:58:35" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -2542,7 +2542,16 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97120</ExpertLink>
                                 <Name lang="en">Distal arthrogryposis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="12">
+                              <ClassificationNodeChildList count="13">
+                                <ClassificationNode>
+                                  <Disorder id="28331">
+                                    <OrphaNumber>562528</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562528</ExpertLink>
+                                    <Name lang="en">Congenital limbs-face contractures-hypotonia-developmental delay syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                                 <ClassificationNode>
                                   <Disorder id="421">
                                     <OrphaNumber>1146</OrphaNumber>

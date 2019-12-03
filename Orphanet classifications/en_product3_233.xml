@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 05:00:01" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 05:00:03" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -25,10 +25,10 @@
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>
-              <Disorder id="11953">
-                <OrphaNumber>90062</OrphaNumber>
-                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90062</ExpertLink>
-                <Name lang="en">Acute liver failure</Name>
+              <Disorder id="28337">
+                <OrphaNumber>562639</OrphaNumber>
+                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562639</ExpertLink>
+                <Name lang="en">Primary biliary cholangitis/primary sclerosing cholangitis and autoimmune hepatitis overlap syndrome</Name>
               </Disorder>
               <ClassificationNodeChildList count="0">
               </ClassificationNodeChildList>
@@ -84,7 +84,34 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2137</ExpertLink>
                 <Name lang="en">Autoimmune hepatitis</Name>
               </Disorder>
-              <ClassificationNodeChildList count="0">
+              <ClassificationNodeChildList count="3">
+                <ClassificationNode>
+                  <Disorder id="28362">
+                    <OrphaNumber>563576</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563576</ExpertLink>
+                    <Name lang="en">Autoimmune hepatitis type 1</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28363">
+                    <OrphaNumber>563581</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563581</ExpertLink>
+                    <Name lang="en">Autoimmune hepatitis type 2</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28364">
+                    <OrphaNumber>563589</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563589</ExpertLink>
+                    <Name lang="en">Seronegative autoimmune hepatitis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>
@@ -597,52 +624,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=389</ExpertLink>
                 <Name lang="en">Langerhans cell histiocytosis</Name>
               </Disorder>
-              <ClassificationNodeChildList count="5">
-                <ClassificationNode>
-                  <Disorder id="14443">
-                    <OrphaNumber>99870</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99870</ExpertLink>
-                    <Name lang="en">Letterer-Siwe disease</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="14446">
-                    <OrphaNumber>99873</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99873</ExpertLink>
-                    <Name lang="en">Hand-Schüller-Christian disease</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="14444">
-                    <OrphaNumber>99871</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99871</ExpertLink>
-                    <Name lang="en">Eosinophilic granuloma</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="14445">
-                    <OrphaNumber>99872</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99872</ExpertLink>
-                    <Name lang="en">Hashimoto-Pritzker syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="14447">
-                    <OrphaNumber>99874</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99874</ExpertLink>
-                    <Name lang="en">Adult pulmonary Langerhans cell histiocytosis</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
+              <ClassificationNodeChildList count="0">
               </ClassificationNodeChildList>
             </ClassificationNode>
             <ClassificationNode>
@@ -1160,7 +1142,7 @@
                   <Disorder id="23200">
                     <OrphaNumber>424933</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=424933</ExpertLink>
-                    <Name lang="en">Rare epithelial tumor of liver and intrahepatic biliary tract</Name>
+                    <Name lang="en">Rare malignant epithelial tumor of liver and intrahepatic biliary tract</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="2">
                     <ClassificationNode>

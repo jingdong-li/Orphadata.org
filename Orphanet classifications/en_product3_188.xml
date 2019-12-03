@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:59:22" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:59:24" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -14,7 +14,7 @@
       <Name lang="en">Rare renal disease</Name>
       <ClassificationNodeList count="1">
         <ClassificationNode>
-          <ClassificationNodeChildList count="10">
+          <ClassificationNodeChildList count="11">
             <ClassificationNode>
               <Disorder id="12387">
                 <OrphaNumber>93545</OrphaNumber>
@@ -1095,7 +1095,7 @@
                       <Disorder id="12922">
                         <OrphaNumber>97548</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97548</ExpertLink>
-                        <Name lang="en">Ivemark syndrome</Name>
+                        <Name lang="en">Right sided atrial isomerism</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2130,7 +2130,7 @@
                       <Disorder id="2476">
                         <OrphaNumber>2715</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2715</ExpertLink>
-                        <Name lang="en">Oculorenocerebellar syndrome</Name>
+                        <Name lang="en">Severe Oculo-Renal-Cerebellar syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4684,6 +4684,15 @@
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
+              </ClassificationNodeChildList>
+            </ClassificationNode>
+            <ClassificationNode>
+              <Disorder id="20175">
+                <OrphaNumber>268316</OrphaNumber>
+                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=268316</ExpertLink>
+                <Name lang="en">Complication in hemodialysis</Name>
+              </Disorder>
+              <ClassificationNodeChildList count="0">
               </ClassificationNodeChildList>
             </ClassificationNode>
           </ClassificationNodeChildList>

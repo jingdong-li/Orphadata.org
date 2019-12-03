@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:58:21" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:58:24" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1086,7 +1086,7 @@
                       <Disorder id="12922">
                         <OrphaNumber>97548</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97548</ExpertLink>
-                        <Name lang="en">Ivemark syndrome</Name>
+                        <Name lang="en">Right sided atrial isomerism</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1469,7 +1469,7 @@
                               <Disorder id="12922">
                                 <OrphaNumber>97548</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97548</ExpertLink>
-                                <Name lang="en">Ivemark syndrome</Name>
+                                <Name lang="en">Right sided atrial isomerism</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2130,7 +2130,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98721</ExpertLink>
                             <Name lang="en">Congenital tricuspid malformation</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="9">
+                          <ClassificationNodeChildList count="8">
                             <ClassificationNode>
                               <Disorder id="12600">
                                 <OrphaNumber>95459</OrphaNumber>
@@ -2208,15 +2208,6 @@
                                 <OrphaNumber>1209</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1209</ExpertLink>
                                 <Name lang="en">Tricuspid atresia</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="3439">
-                                <OrphaNumber>1864</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1864</ExpertLink>
-                                <Name lang="en">OBSOLETE: Congenital valvular dysplasia</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -3142,7 +3133,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156532</ExpertLink>
                     <Name lang="en">Rare syndrome with cardiac malformations</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="38">
+                  <ClassificationNodeChildList count="39">
                     <ClassificationNode>
                       <Disorder id="25408">
                         <OrphaNumber>488618</OrphaNumber>
@@ -3580,6 +3571,15 @@
                         <OrphaNumber>457193</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457193</ExpertLink>
                         <Name lang="en">Autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28334">
+                        <OrphaNumber>562569</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562569</ExpertLink>
+                        <Name lang="en">TMEM94-associated congenital heart defect-facial dysmorphism-developmental delay syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5590,7 +5590,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=108973</ExpertLink>
                     <Name lang="en">Syndromic visceral malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="7">
+                  <ClassificationNodeChildList count="8">
                     <ClassificationNode>
                       <Disorder id="20908">
                         <OrphaNumber>294415</OrphaNumber>
@@ -5677,6 +5677,15 @@
                         <OrphaNumber>527468</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=527468</ExpertLink>
                         <Name lang="en">Diaphragmatic hernia-short bowel-asplenia syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28138">
+                        <OrphaNumber>556955</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=556955</ExpertLink>
+                        <Name lang="en">Pancreatic agenesis-holoprosencephaly syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6401,9 +6410,27 @@
                               <Disorder id="5014">
                                 <OrphaNumber>1048</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1048</ExpertLink>
-                                <Name lang="en">Isolated absence of encephalon</Name>
+                                <Name lang="en">Isolated anencephaly/exencephaly</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="0">
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="28365">
+                                    <OrphaNumber>563609</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563609</ExpertLink>
+                                    <Name lang="en">Isolated anencephaly</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="28366">
+                                    <OrphaNumber>563612</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563612</ExpertLink>
+                                    <Name lang="en">Isolated exencephaly</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
@@ -7874,7 +7901,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=199639</ExpertLink>
                         <Name lang="en">Syndrome with corpus callosum agenesis/dysgenesis as a major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="23">
+                      <ClassificationNodeChildList count="22">
                         <ClassificationNode>
                           <Disorder id="4059">
                             <OrphaNumber>1083</OrphaNumber>
@@ -7997,15 +8024,6 @@
                             <OrphaNumber>52055</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=52055</ExpertLink>
                             <Name lang="en">Corpus callosum agenesis-intellectual disability-coloboma-micrognathia syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11700">
-                            <OrphaNumber>85330</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85330</ExpertLink>
-                            <Name lang="en">X-linked intellectual disability-corpus callosum agenesis-spastic quadriparesis syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8873,7 +8891,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=269531</ExpertLink>
                         <Name lang="en">Other syndrome with a central nervous system malformation as major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="40">
+                      <ClassificationNodeChildList count="41">
                         <ClassificationNode>
                           <Disorder id="27595">
                             <OrphaNumber>529574</OrphaNumber>
@@ -9094,7 +9112,7 @@
                           <Disorder id="18946">
                             <OrphaNumber>221126</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221126</ExpertLink>
-                            <Name lang="en">Fowler syndrome</Name>
+                            <Name lang="en">Fowler vasculopaty</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9212,6 +9230,15 @@
                             <OrphaNumber>500150</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500150</ExpertLink>
                             <Name lang="en">Brain malformations-musculoskeletal abnormalities-facial dysmorphism-intellectual disability syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28138">
+                            <OrphaNumber>556955</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=556955</ExpertLink>
+                            <Name lang="en">Pancreatic agenesis-holoprosencephaly syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -16971,7 +16998,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2781</ExpertLink>
                             <Name lang="en">Osteopetrosis and related disorders</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="19">
+                          <ClassificationNodeChildList count="20">
                             <ClassificationNode>
                               <Disorder id="12544">
                                 <OrphaNumber>94063</OrphaNumber>
@@ -17139,6 +17166,15 @@
                                 <OrphaNumber>500548</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500548</ExpertLink>
                                 <Name lang="en">Osteosclerotic metaphyseal dysplasia</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="28139">
+                                <OrphaNumber>556985</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=556985</ExpertLink>
+                                <Name lang="en">Early-onset calcifying leukoencephalopathy-skeletal dysplasia</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -17639,7 +17675,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93447</ExpertLink>
                         <Name lang="en">Primary bone dysplasia with defective bone mineralization</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="9">
+                      <ClassificationNodeChildList count="10">
+                        <ClassificationNode>
+                          <Disorder id="28140">
+                            <OrphaNumber>557003</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=557003</ExpertLink>
+                            <Name lang="en">Oculocerebrodental syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="162">
                             <OrphaNumber>436</OrphaNumber>
@@ -25012,7 +25057,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79373</ExpertLink>
                     <Name lang="en">Ectodermal dysplasia syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="112">
+                  <ClassificationNodeChildList count="111">
                     <ClassificationNode>
                       <Disorder id="3069">
                         <OrphaNumber>3200</OrphaNumber>
@@ -25774,15 +25819,6 @@
                         <OrphaNumber>175</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=175</ExpertLink>
                         <Name lang="en">Cartilage-hair hypoplasia</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="8619">
-                        <OrphaNumber>435</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=435</ExpertLink>
-                        <Name lang="en">Ito hypomelanosis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -27723,7 +27759,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139042</ExpertLink>
                 <Name lang="en">Malformation syndrome with odontal and/or periodontal component</Name>
               </Disorder>
-              <ClassificationNodeChildList count="60">
+              <ClassificationNodeChildList count="61">
                 <ClassificationNode>
                   <Disorder id="2481">
                     <OrphaNumber>2720</OrphaNumber>
@@ -28152,6 +28188,15 @@
                     <OrphaNumber>3355</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3355</ExpertLink>
                     <Name lang="en">Trichoodontoonychial dysplasia</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28333">
+                    <OrphaNumber>562559</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562559</ExpertLink>
+                    <Name lang="en">Anterior maxillary protrusion-strabismus-intellectual disability syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -35776,7 +35821,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102283</ExpertLink>
                     <Name lang="en">Multiple congenital anomalies/dysmorphic syndrome-intellectual disability</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="374">
+                  <ClassificationNodeChildList count="379">
                     <ClassificationNode>
                       <Disorder id="24010">
                         <OrphaNumber>464282</OrphaNumber>
@@ -36105,9 +36150,27 @@
                       <Disorder id="5014">
                         <OrphaNumber>1048</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1048</ExpertLink>
-                        <Name lang="en">Isolated absence of encephalon</Name>
+                        <Name lang="en">Isolated anencephaly/exencephaly</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="28365">
+                            <OrphaNumber>563609</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563609</ExpertLink>
+                            <Name lang="en">Isolated anencephaly</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28366">
+                            <OrphaNumber>563612</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563612</ExpertLink>
+                            <Name lang="en">Isolated exencephaly</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -38460,6 +38523,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="28138">
+                        <OrphaNumber>556955</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=556955</ExpertLink>
+                        <Name lang="en">Pancreatic agenesis-holoprosencephaly syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="28085">
                         <OrphaNumber>544503</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544503</ExpertLink>
@@ -38491,6 +38563,42 @@
                         <OrphaNumber>506358</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506358</ExpertLink>
                         <Name lang="en">Gabriele-de Vries syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28140">
+                        <OrphaNumber>557003</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=557003</ExpertLink>
+                        <Name lang="en">Oculocerebrodental syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28331">
+                        <OrphaNumber>562528</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562528</ExpertLink>
+                        <Name lang="en">Congenital limbs-face contractures-hypotonia-developmental delay syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28333">
+                        <OrphaNumber>562559</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562559</ExpertLink>
+                        <Name lang="en">Anterior maxillary protrusion-strabismus-intellectual disability syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28334">
+                        <OrphaNumber>562569</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562569</ExpertLink>
+                        <Name lang="en">TMEM94-associated congenital heart defect-facial dysmorphism-developmental delay syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -42945,12 +43053,21 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97120</ExpertLink>
                             <Name lang="en">Distal arthrogryposis</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="16">
+                          <ClassificationNodeChildList count="17">
                             <ClassificationNode>
                               <Disorder id="3069">
                                 <OrphaNumber>3200</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3200</ExpertLink>
                                 <Name lang="en">Arthrogryposis-ectodermal dysplasia syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="28331">
+                                <OrphaNumber>562528</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562528</ExpertLink>
+                                <Name lang="en">Congenital limbs-face contractures-hypotonia-developmental delay syndrome</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -49631,6 +49748,15 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
+                  <Disorder id="28140">
+                    <OrphaNumber>557003</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=557003</ExpertLink>
+                    <Name lang="en">Oculocerebrodental syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
                   <Disorder id="25998">
                     <OrphaNumber>500144</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500144</ExpertLink>
@@ -49923,15 +50049,6 @@
                     <OrphaNumber>3220</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3220</ExpertLink>
                     <Name lang="en">Deafness-enamel hypoplasia-nail defects syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="2878">
-                    <OrphaNumber>3221</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3221</ExpertLink>
-                    <Name lang="en">Generalized resistance to thyroid hormone</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

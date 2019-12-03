@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:59:38" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:59:40" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -3572,7 +3572,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2781</ExpertLink>
                         <Name lang="en">Osteopetrosis and related disorders</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="19">
+                      <ClassificationNodeChildList count="20">
                         <ClassificationNode>
                           <Disorder id="12544">
                             <OrphaNumber>94063</OrphaNumber>
@@ -3740,6 +3740,15 @@
                             <OrphaNumber>500548</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=500548</ExpertLink>
                             <Name lang="en">Osteosclerotic metaphyseal dysplasia</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28139">
+                            <OrphaNumber>556985</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=556985</ExpertLink>
+                            <Name lang="en">Early-onset calcifying leukoencephalopathy-skeletal dysplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4240,12 +4249,21 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93447</ExpertLink>
                     <Name lang="en">Primary bone dysplasia with defective bone mineralization</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="9">
+                  <ClassificationNodeChildList count="10">
                     <ClassificationNode>
                       <Disorder id="1614">
                         <OrphaNumber>1416</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1416</ExpertLink>
                         <Name lang="en">Familial calcium pyrophosphate deposition</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28140">
+                        <OrphaNumber>557003</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=557003</ExpertLink>
+                        <Name lang="en">Oculocerebrodental syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -9456,7 +9474,7 @@
                       <Disorder id="746">
                         <OrphaNumber>2054</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2054</ExpertLink>
-                        <Name lang="en">Osteochondritis of tarsal/metatarsal bone</Name>
+                        <Name lang="en">OBSOLETE: Osteochondritis of tarsal/metatarsal bone</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

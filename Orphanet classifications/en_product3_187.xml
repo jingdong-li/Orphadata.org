@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:59:21" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:59:23" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -2994,16 +2994,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=434809</ExpertLink>
                             <Name lang="en">Syndrome with woolly hair</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="5">
-                            <ClassificationNode>
-                              <Disorder id="1609">
-                                <OrphaNumber>1409</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1409</ExpertLink>
-                                <Name lang="en">Woolly hair-hypotrichosis-everted lower lip-outstanding ears syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="4">
                             <ClassificationNode>
                               <Disorder id="10333">
                                 <OrphaNumber>34217</OrphaNumber>
@@ -3358,7 +3349,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79373</ExpertLink>
                     <Name lang="en">Ectodermal dysplasia syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="112">
+                  <ClassificationNodeChildList count="111">
                     <ClassificationNode>
                       <Disorder id="3069">
                         <OrphaNumber>3200</OrphaNumber>
@@ -4120,15 +4111,6 @@
                         <OrphaNumber>175</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=175</ExpertLink>
                         <Name lang="en">Cartilage-hair hypoplasia</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="8619">
-                        <OrphaNumber>435</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=435</ExpertLink>
-                        <Name lang="en">Ito hypomelanosis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -4960,7 +4942,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79376</ExpertLink>
                     <Name lang="en">Hypopigmentation of the skin</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="12">
+                  <ClassificationNodeChildList count="11">
                     <ClassificationNode>
                       <Disorder id="303">
                         <OrphaNumber>998</OrphaNumber>
@@ -5155,15 +5137,6 @@
                         <OrphaNumber>3214</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3214</ExpertLink>
                         <Name lang="en">Deaf blind hypopigmentation syndrome, Yemenite type</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="8619">
-                        <OrphaNumber>435</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=435</ExpertLink>
-                        <Name lang="en">Ito hypomelanosis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6328,7 +6301,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79381</ExpertLink>
                     <Name lang="en">Other dermis disorder</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="16">
+                  <ClassificationNodeChildList count="17">
                     <ClassificationNode>
                       <Disorder id="474">
                         <OrphaNumber>1764</OrphaNumber>
@@ -6658,6 +6631,15 @@
                         <OrphaNumber>140933</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=140933</ExpertLink>
                         <Name lang="en">Linear atrophoderma of Moulin</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="11967">
+                        <OrphaNumber>90076</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90076</ExpertLink>
+                        <Name lang="en">Partial deep dermal and full thickness burns</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -9570,7 +9552,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90077</ExpertLink>
                 <Name lang="en">Other acquired skin disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="22">
+              <ClassificationNodeChildList count="23">
+                <ClassificationNode>
+                  <Disorder id="12540">
+                    <OrphaNumber>94059</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=94059</ExpertLink>
+                    <Name lang="en">Uremic pruritus</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="1466">
                     <OrphaNumber>1221</OrphaNumber>

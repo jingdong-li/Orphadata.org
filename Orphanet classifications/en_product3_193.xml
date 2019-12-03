@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:59:28" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:59:30" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1966,7 +1966,16 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95714</ExpertLink>
                                 <Name lang="en">Primary congenital hypothyroidism without thyroid developmental anomaly</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="3">
+                              <ClassificationNodeChildList count="4">
+                                <ClassificationNode>
+                                  <Disorder id="28493">
+                                    <OrphaNumber>566231</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=566231</ExpertLink>
+                                    <Name lang="en">Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                                 <ClassificationNode>
                                   <Disorder id="12074">
                                     <OrphaNumber>90673</OrphaNumber>
@@ -2058,21 +2067,12 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=226310</ExpertLink>
                             <Name lang="en">Peripheral hypothyroidism</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
+                          <ClassificationNodeChildList count="2">
                             <ClassificationNode>
                               <Disorder id="1315">
                                 <OrphaNumber>59</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=59</ExpertLink>
                                 <Name lang="en">Allan-Herndon-Dudley syndrome</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12947">
-                                <OrphaNumber>97927</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97927</ExpertLink>
-                                <Name lang="en">Peripheral resistance to thyroid hormones</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -6455,7 +6455,16 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=95714</ExpertLink>
                                     <Name lang="en">Primary congenital hypothyroidism without thyroid developmental anomaly</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="3">
+                                  <ClassificationNodeChildList count="4">
+                                    <ClassificationNode>
+                                      <Disorder id="28493">
+                                        <OrphaNumber>566231</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=566231</ExpertLink>
+                                        <Name lang="en">Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                     <ClassificationNode>
                                       <Disorder id="12074">
                                         <OrphaNumber>90673</OrphaNumber>
@@ -6547,21 +6556,12 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=226310</ExpertLink>
                                 <Name lang="en">Peripheral hypothyroidism</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="3">
+                              <ClassificationNodeChildList count="2">
                                 <ClassificationNode>
                                   <Disorder id="1315">
                                     <OrphaNumber>59</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=59</ExpertLink>
                                     <Name lang="en">Allan-Herndon-Dudley syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="12947">
-                                    <OrphaNumber>97927</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97927</ExpertLink>
-                                    <Name lang="en">Peripheral resistance to thyroid hormones</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6616,16 +6616,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181399</ExpertLink>
                     <Name lang="en">Rare hyperthyroidism</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
-                    <ClassificationNode>
-                      <Disorder id="2878">
-                        <OrphaNumber>3221</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3221</ExpertLink>
-                        <Name lang="en">Generalized resistance to thyroid hormone</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="4">
                     <ClassificationNode>
                       <Disorder id="3266">
                         <OrphaNumber>424</OrphaNumber>
@@ -6645,19 +6636,19 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="17596">
-                        <OrphaNumber>165994</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=165994</ExpertLink>
-                        <Name lang="en">Pituitary resistance to thyroid hormone</Name>
+                      <Disorder id="27390">
+                        <OrphaNumber>525731</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=525731</ExpertLink>
+                        <Name lang="en">Pediatric-onset Graves disease</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="27390">
-                        <OrphaNumber>525731</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=525731</ExpertLink>
-                        <Name lang="en">Pediatric-onset Graves disease</Name>
+                      <Disorder id="28494">
+                        <OrphaNumber>566243</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=566243</ExpertLink>
+                        <Name lang="en">Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -6681,21 +6672,12 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101956</ExpertLink>
                 <Name lang="en">Polyendocrinopathy</Name>
               </Disorder>
-              <ClassificationNodeChildList count="8">
+              <ClassificationNodeChildList count="7">
                 <ClassificationNode>
                   <Disorder id="1471">
                     <OrphaNumber>1227</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1227</ExpertLink>
                     <Name lang="en">Bangstad syndrome</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="2770">
-                    <OrphaNumber>3087</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3087</ExpertLink>
-                    <Name lang="en">Retinohepatoendocrinologic syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

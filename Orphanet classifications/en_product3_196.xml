@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:59:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:59:35" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -489,12 +489,21 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=182222</ExpertLink>
                 <Name lang="en">Rare systemic disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="32">
+              <ClassificationNodeChildList count="33">
                 <ClassificationNode>
                   <Disorder id="19145">
                     <OrphaNumber>230857</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=230857</ExpertLink>
                     <Name lang="en">Ehlers-Danlos/osteogenesis imperfecta syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="11942">
+                    <OrphaNumber>90051</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90051</ExpertLink>
+                    <Name lang="en">Sepsis in premature infants</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -847,52 +856,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=389</ExpertLink>
                     <Name lang="en">Langerhans cell histiocytosis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="5">
-                    <ClassificationNode>
-                      <Disorder id="14443">
-                        <OrphaNumber>99870</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99870</ExpertLink>
-                        <Name lang="en">Letterer-Siwe disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14444">
-                        <OrphaNumber>99871</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99871</ExpertLink>
-                        <Name lang="en">Eosinophilic granuloma</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14445">
-                        <OrphaNumber>99872</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99872</ExpertLink>
-                        <Name lang="en">Hashimoto-Pritzker syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14446">
-                        <OrphaNumber>99873</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99873</ExpertLink>
-                        <Name lang="en">Hand-Schüller-Christian disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="14447">
-                        <OrphaNumber>99874</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99874</ExpertLink>
-                        <Name lang="en">Adult pulmonary Langerhans cell histiocytosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -3127,7 +3091,7 @@
                           <Disorder id="746">
                             <OrphaNumber>2054</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2054</ExpertLink>
-                            <Name lang="en">Osteochondritis of tarsal/metatarsal bone</Name>
+                            <Name lang="en">OBSOLETE: Osteochondritis of tarsal/metatarsal bone</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

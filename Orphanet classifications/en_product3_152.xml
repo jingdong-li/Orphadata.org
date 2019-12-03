@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:58:35" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:58:38" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -21,7 +21,16 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=101936</ExpertLink>
                 <Name lang="en">Rare gastroesophageal disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="13">
+              <ClassificationNodeChildList count="14">
+                <ClassificationNode>
+                  <Disorder id="19152">
+                    <OrphaNumber>231080</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=231080</ExpertLink>
+                    <Name lang="en">High-grade dysplasia in patients with Barrett esophagus</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="302">
                     <OrphaNumber>930</OrphaNumber>
@@ -714,7 +723,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=117569</ExpertLink>
                 <Name lang="en">Rare intestinal disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="27">
+              <ClassificationNodeChildList count="30">
                 <ClassificationNode>
                   <Disorder id="789">
                     <OrphaNumber>3452</OrphaNumber>
@@ -784,7 +793,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=73014</ExpertLink>
                     <Name lang="en">Intractable diarrhea of infancy</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="9">
+                  <ClassificationNodeChildList count="11">
                     <ClassificationNode>
                       <Disorder id="2157">
                         <OrphaNumber>2290</OrphaNumber>
@@ -844,6 +853,24 @@
                         <OrphaNumber>445018</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=445018</ExpertLink>
                         <Name lang="en">Combined immunodeficiency due to LRBA deficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="14984">
+                        <OrphaNumber>103908</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=103908</ExpertLink>
+                        <Name lang="en">Congenital sodium diarrhea</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28373">
+                        <OrphaNumber>563708</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563708</ExpertLink>
+                        <Name lang="en">Syndromic congenital sodium diarrhea</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1090,7 +1117,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=104003</ExpertLink>
                     <Name lang="en">Congenital intestinal transport defect</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="4">
+                  <ClassificationNodeChildList count="5">
                     <ClassificationNode>
                       <Disorder id="517">
                         <OrphaNumber>469</OrphaNumber>
@@ -1123,6 +1150,15 @@
                         <OrphaNumber>103908</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=103908</ExpertLink>
                         <Name lang="en">Congenital sodium diarrhea</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28373">
+                        <OrphaNumber>563708</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563708</ExpertLink>
+                        <Name lang="en">Syndromic congenital sodium diarrhea</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1891,7 +1927,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=104012</ExpertLink>
                     <Name lang="en">Rare inflammatory bowel disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="7">
+                  <ClassificationNodeChildList count="8">
                     <ClassificationNode>
                       <Disorder id="176">
                         <OrphaNumber>379</OrphaNumber>
@@ -1978,6 +2014,15 @@
                         <OrphaNumber>477661</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477661</ExpertLink>
                         <Name lang="en">IL21-related infantile inflammatory bowel disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="22640">
+                        <OrphaNumber>391673</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=391673</ExpertLink>
+                        <Name lang="en">Necrotizing enterocolitis</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -2097,6 +2142,33 @@
                     <OrphaNumber>436166</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436166</ExpertLink>
                     <Name lang="en">Periodic fever-infantile enterocolitis-autoinflammatory syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="18820">
+                    <OrphaNumber>217067</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217067</ExpertLink>
+                    <Name lang="en">Pouchitis</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="19068">
+                    <OrphaNumber>228113</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=228113</ExpertLink>
+                    <Name lang="en">Anal fistula</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="19285">
+                    <OrphaNumber>238621</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238621</ExpertLink>
+                    <Name lang="en">Ileal pouch anal anastomosis related faecal incontinence</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

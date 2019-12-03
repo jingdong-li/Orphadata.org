@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-11-01 04:59:24" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2019-12-01 04:59:26" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1788,15 +1788,6 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="8619">
-                                    <OrphaNumber>435</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=435</ExpertLink>
-                                    <Name lang="en">Ito hypomelanosis</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
                                   <Disorder id="3559">
                                     <OrphaNumber>2968</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2968</ExpertLink>
@@ -2223,7 +2214,7 @@
                                   <Disorder id="2476">
                                     <OrphaNumber>2715</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2715</ExpertLink>
-                                    <Name lang="en">Oculorenocerebellar syndrome</Name>
+                                    <Name lang="en">Severe Oculo-Renal-Cerebellar syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -2323,6 +2314,15 @@
                                     <OrphaNumber>85283</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85283</ExpertLink>
                                     <Name lang="en">X-linked intellectual disability, Miles-Carpenter type</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="28333">
+                                    <OrphaNumber>562559</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=562559</ExpertLink>
+                                    <Name lang="en">Anterior maxillary protrusion-strabismus-intellectual disability syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -3921,7 +3921,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=519317</ExpertLink>
                             <Name lang="en">Rare retinal vasculopathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="14">
+                          <ClassificationNodeChildList count="15">
                             <ClassificationNode>
                               <Disorder id="1645">
                                 <OrphaNumber>190</OrphaNumber>
@@ -4026,6 +4026,15 @@
                                 <OrphaNumber>506307</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506307</ExpertLink>
                                 <Name lang="en">Stromme syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="23016">
+                                <OrphaNumber>411527</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=411527</ExpertLink>
+                                <Name lang="en">Central retinal vein occlusion</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -5148,7 +5157,7 @@
                                   <Disorder id="2476">
                                     <OrphaNumber>2715</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2715</ExpertLink>
-                                    <Name lang="en">Oculorenocerebellar syndrome</Name>
+                                    <Name lang="en">Severe Oculo-Renal-Cerebellar syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6103,7 +6112,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=519329</ExpertLink>
                     <Name lang="en">Rare disorder involving multiple structures of the eye</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="4">
+                  <ClassificationNodeChildList count="5">
                     <ClassificationNode>
                       <Disorder id="13723">
                         <OrphaNumber>98706</OrphaNumber>
@@ -7173,6 +7182,15 @@
                             </ClassificationNode>
                           </ClassificationNodeChildList>
                         </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="11971">
+                        <OrphaNumber>90080</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90080</ExpertLink>
+                        <Name lang="en">Scarring in glaucoma filtration surgical procedures</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -9143,7 +9161,16 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=519282</ExpertLink>
                         <Name lang="en">Rare corneal disorder</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="4">
+                        <ClassificationNode>
+                          <Disorder id="17923">
+                            <OrphaNumber>171673</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171673</ExpertLink>
+                            <Name lang="en">Limbal stem cell deficiency</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                         <ClassificationNode>
                           <Disorder id="10736">
                             <OrphaNumber>53691</OrphaNumber>
@@ -10111,7 +10138,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98641</ExpertLink>
                                 <Name lang="en">Syndromic cataract</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="122">
+                              <ClassificationNodeChildList count="123">
                                 <ClassificationNode>
                                   <Disorder id="190">
                                     <OrphaNumber>649</OrphaNumber>
@@ -11998,6 +12025,15 @@
                                     <OrphaNumber>910</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=910</ExpertLink>
                                     <Name lang="en">Xeroderma pigmentosum</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="28140">
+                                    <OrphaNumber>557003</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=557003</ExpertLink>
+                                    <Name lang="en">Oculocerebrodental syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
