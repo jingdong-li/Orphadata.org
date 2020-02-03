@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2020-01-01 05:00:53" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
+<JDBOR date="2020-02-01 05:06:18" version="1.3.1 / 4.1.7 [2019-11-24] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -21,16 +21,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93618</ExpertLink>
                 <Name lang="en">Rare cause of hypertension</Name>
               </Disorder>
-              <ClassificationNodeChildList count="3">
-                <ClassificationNode>
-                  <Disorder id="3731">
-                    <OrphaNumber>1501</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1501</ExpertLink>
-                    <Name lang="en">Adrenocortical carcinoma</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
+              <ClassificationNodeChildList count="2">
                 <ClassificationNode>
                   <Disorder id="12937">
                     <OrphaNumber>97598</OrphaNumber>
@@ -46,7 +37,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156629</ExpertLink>
                     <Name lang="en">Rare genetic cause of hypertension</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="13">
+                  <ClassificationNodeChildList count="11">
                     <ClassificationNode>
                       <Disorder id="145">
                         <OrphaNumber>904</OrphaNumber>
@@ -81,15 +72,6 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="913">
-                        <OrphaNumber>403</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=403</ExpertLink>
-                        <Name lang="en">Familial hyperaldosteronism type I</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -210,21 +192,39 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="14392">
-                        <OrphaNumber>99819</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99819</ExpertLink>
-                        <Name lang="en">Familial gestational hyperthyroidism</Name>
+                      <Disorder id="19251">
+                        <OrphaNumber>235936</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=235936</ExpertLink>
+                        <Name lang="en">Familial hyperaldosteronism</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="8739">
-                        <OrphaNumber>756</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=756</ExpertLink>
-                        <Name lang="en">Pseudohypoaldosteronism type 1</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="19618">
+                            <OrphaNumber>251274</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251274</ExpertLink>
+                            <Name lang="en">Familial hyperaldosteronism type III</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="913">
+                            <OrphaNumber>403</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=403</ExpertLink>
+                            <Name lang="en">Familial hyperaldosteronism type I</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="8738">
+                            <OrphaNumber>404</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404</ExpertLink>
+                            <Name lang="en">Familial hyperaldosteronism type II</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -2114,30 +2114,120 @@
                           </Disorder>
                           <ClassificationNodeChildList count="3">
                             <ClassificationNode>
-                              <Disorder id="11478">
-                                <OrphaNumber>79452</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79452</ExpertLink>
-                                <Name lang="en">Milroy disease</Name>
+                              <Disorder id="28607">
+                                <OrphaNumber>568041</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=568041</ExpertLink>
+                                <Name lang="en">Primary lymphedema without systemic or visceral involvement</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="0">
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="780">
+                                    <OrphaNumber>2416</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2416</ExpertLink>
+                                    <Name lang="en">Congenital primary lymphedema without systemic or visceral involvement</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="3">
+                                    <ClassificationNode>
+                                      <Disorder id="11478">
+                                        <OrphaNumber>79452</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79452</ExpertLink>
+                                        <Name lang="en">Milroy disease</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="28655">
+                                        <OrphaNumber>569821</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=569821</ExpertLink>
+                                        <Name lang="en">Congenital primary lymphedema of Gordon</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="2336">
+                                        <OrphaNumber>2526</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2526</ExpertLink>
+                                        <Name lang="en">Microcephaly-lymphedema-chorioretinopathy syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="20760">
+                                    <OrphaNumber>289825</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289825</ExpertLink>
+                                    <Name lang="en">Late-onset primary lymphedema without systemic or visceral involvement</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="6">
+                                    <ClassificationNode>
+                                      <Disorder id="2883">
+                                        <OrphaNumber>3226</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3226</ExpertLink>
+                                        <Name lang="en">Deafness-lymphedema-leukemia syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="10305">
+                                        <OrphaNumber>33001</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=33001</ExpertLink>
+                                        <Name lang="en">Lymphedema-distichiasis syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="28610">
+                                        <OrphaNumber>568051</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=568051</ExpertLink>
+                                        <Name lang="en">GJC2-related late-onset primary lymphedema</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="14158">
+                                        <OrphaNumber>99141</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99141</ExpertLink>
+                                        <Name lang="en">Lymphedema-posterior choanal atresia syndrome</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="11993">
+                                        <OrphaNumber>90186</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90186</ExpertLink>
+                                        <Name lang="en">Meige disease</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="28654">
+                                        <OrphaNumber>569816</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=569816</ExpertLink>
+                                        <Name lang="en">CELSR1-related late-onset primary lymphedema</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="11993">
-                                <OrphaNumber>90186</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90186</ExpertLink>
-                                <Name lang="en">Meige disease</Name>
+                              <Disorder id="28608">
+                                <OrphaNumber>568044</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=568044</ExpertLink>
+                                <Name lang="en">Primary lymphedema with systemic or visceral involvement</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="23762">
-                                <OrphaNumber>458841</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=458841</ExpertLink>
-                                <Name lang="en">Primary lymphedema with associated anomalies</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="19">
+                              <ClassificationNodeChildList count="7">
                                 <ClassificationNode>
                                   <Disorder id="2036">
                                     <OrphaNumber>2136</OrphaNumber>
@@ -2148,28 +2238,28 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="2336">
-                                    <OrphaNumber>2526</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2526</ExpertLink>
-                                    <Name lang="en">Microcephaly-lymphedema-chorioretinopathy syndrome</Name>
+                                  <Disorder id="28613">
+                                    <OrphaNumber>568065</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=568065</ExpertLink>
+                                    <Name lang="en">EPHB4-related lymphatic-related nonimmune hydrops fetalis with atrial septal defect</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="2883">
-                                    <OrphaNumber>3226</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3226</ExpertLink>
-                                    <Name lang="en">Deafness-lymphedema-leukemia syndrome</Name>
+                                  <Disorder id="28612">
+                                    <OrphaNumber>568062</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=568062</ExpertLink>
+                                    <Name lang="en">PIEZO1-related lymphatic-related nonimmune hydrops fetalis with systemic involvement</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="3214">
-                                    <OrphaNumber>1655</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1655</ExpertLink>
-                                    <Name lang="en">Müllerian derivatives-lymphangiectasia-polydactyly syndrome</Name>
+                                  <Disorder id="28611">
+                                    <OrphaNumber>568056</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=568056</ExpertLink>
+                                    <Name lang="en">Warts-immunodeficiency-lymphedema-anogenital dysplasia syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -2184,19 +2274,37 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="10305">
-                                    <OrphaNumber>33001</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=33001</ExpertLink>
-                                    <Name lang="en">Lymphedema-distichiasis syndrome</Name>
+                                  <Disorder id="10936">
+                                    <OrphaNumber>69735</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69735</ExpertLink>
+                                    <Name lang="en">Hypotrichosis-lymphedema-telangiectasia-renal defect syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="10936">
-                                    <OrphaNumber>69735</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69735</ExpertLink>
-                                    <Name lang="en">Hypotrichosis-lymphedema-telangiectasia-renal defect syndrome</Name>
+                                  <Disorder id="11788">
+                                    <OrphaNumber>86915</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86915</ExpertLink>
+                                    <Name lang="en">Lymphedema-atrial septal defects-facial changes syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="28609">
+                                <OrphaNumber>568047</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=568047</ExpertLink>
+                                <Name lang="en">Disorder with multisystemic involvement and primary lymphedema</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="12">
+                                <ClassificationNode>
+                                  <Disorder id="94">
+                                    <OrphaNumber>324</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=324</ExpertLink>
+                                    <Name lang="en">Fabry disease</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -2211,6 +2319,42 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
+                                  <Disorder id="44">
+                                    <OrphaNumber>881</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=881</ExpertLink>
+                                    <Name lang="en">Turner syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="3">
+                                    <ClassificationNode>
+                                      <Disorder id="14199">
+                                        <OrphaNumber>99226</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99226</ExpertLink>
+                                        <Name lang="en">Monosomy X</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="14200">
+                                        <OrphaNumber>99228</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99228</ExpertLink>
+                                        <Name lang="en">Mosaic monosomy X</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="14210">
+                                        <OrphaNumber>99413</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99413</ExpertLink>
+                                        <Name lang="en">Turner syndrome due to structural X chromosome anomalies</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
                                   <Disorder id="437">
                                     <OrphaNumber>1414</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1414</ExpertLink>
@@ -2220,28 +2364,37 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="534">
-                                    <OrphaNumber>2414</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2414</ExpertLink>
-                                    <Name lang="en">Congenital pulmonary lymphangiectasia</Name>
+                                  <Disorder id="1559">
+                                    <OrphaNumber>1340</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1340</ExpertLink>
+                                    <Name lang="en">Cardiofaciocutaneous syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="1542">
-                                    <OrphaNumber>1318</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1318</ExpertLink>
-                                    <Name lang="en">Campomelia, Cumming type</Name>
+                                  <Disorder id="3214">
+                                    <OrphaNumber>1655</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1655</ExpertLink>
+                                    <Name lang="en">Müllerian derivatives-lymphangiectasia-polydactyly syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="1992">
-                                    <OrphaNumber>2077</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2077</ExpertLink>
-                                    <Name lang="en">German syndrome</Name>
+                                  <Disorder id="2573">
+                                    <OrphaNumber>2836</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2836</ExpertLink>
+                                    <Name lang="en">PEHO syndrome</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="10630">
+                                    <OrphaNumber>48652</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=48652</ExpertLink>
+                                    <Name lang="en">Monosomy 22q13.3</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -2256,46 +2409,19 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="11345">
-                                    <OrphaNumber>79319</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79319</ExpertLink>
-                                    <Name lang="en">MPI-CDG</Name>
+                                  <Disorder id="2471">
+                                    <OrphaNumber>2710</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2710</ExpertLink>
+                                    <Name lang="en">Oculodentodigital dysplasia</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
-                                  <Disorder id="11788">
-                                    <OrphaNumber>86915</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86915</ExpertLink>
-                                    <Name lang="en">Lymphedema-atrial septal defects-facial changes syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="11909">
-                                    <OrphaNumber>89844</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=89844</ExpertLink>
-                                    <Name lang="en">Lissencephaly syndrome, Norman-Roberts type</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="1397">
-                                    <OrphaNumber>1116</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1116</ExpertLink>
-                                    <Name lang="en">Aplasia cutis congenita-intestinal lymphangiectasia syndrome</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="1424">
-                                    <OrphaNumber>1160</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1160</ExpertLink>
-                                    <Name lang="en">Chylous ascites</Name>
+                                  <Disorder id="1992">
+                                    <OrphaNumber>2077</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2077</ExpertLink>
+                                    <Name lang="en">German syndrome</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

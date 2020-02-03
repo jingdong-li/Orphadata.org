@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2020-01-01 04:59:34" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
+<JDBOR date="2020-02-01 05:04:59" version="1.3.1 / 4.1.7 [2019-11-24] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -14,7 +14,7 @@
       <Name lang="en">Rare cardiac disease</Name>
       <ClassificationNodeList count="1">
         <ClassificationNode>
-          <ClassificationNodeChildList count="6">
+          <ClassificationNodeChildList count="7">
             <ClassificationNode>
               <Disorder id="17712">
                 <OrphaNumber>167848</OrphaNumber>
@@ -276,7 +276,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217587</ExpertLink>
                             <Name lang="en">Mitochondrial disease with hypertrophic cardiomyopathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="14">
+                          <ClassificationNodeChildList count="15">
                             <ClassificationNode>
                               <Disorder id="63">
                                 <OrphaNumber>550</OrphaNumber>
@@ -399,6 +399,15 @@
                                 <OrphaNumber>457185</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457185</ExpertLink>
                                 <Name lang="en">Neonatal encephalomyopathy-cardiomyopathy-respiratory distress syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="28677">
+                                <OrphaNumber>570491</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=570491</ExpertLink>
+                                <Name lang="en">QRSL1-related combined oxidative phosphorylation defect</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2171,6 +2180,15 @@
                 <OrphaNumber>263352</OrphaNumber>
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263352</ExpertLink>
                 <Name lang="en">Postcardiotomy right ventricular failure</Name>
+              </Disorder>
+              <ClassificationNodeChildList count="0">
+              </ClassificationNodeChildList>
+            </ClassificationNode>
+            <ClassificationNode>
+              <Disorder id="28442">
+                <OrphaNumber>565612</OrphaNumber>
+                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=565612</ExpertLink>
+                <Name lang="en">Triglyceride deposit cardiomyovasculopathy</Name>
               </Disorder>
               <ClassificationNodeChildList count="0">
               </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2020-01-01 05:00:34" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
+<JDBOR date="2020-02-01 05:05:59" version="1.3.1 / 4.1.7 [2019-11-24] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -604,7 +604,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=165707</ExpertLink>
                     <Name lang="en">Syndromic urogenital tract malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="35">
+                  <ClassificationNodeChildList count="36">
                     <ClassificationNode>
                       <Disorder id="44">
                         <OrphaNumber>881</OrphaNumber>
@@ -1006,6 +1006,15 @@
                         <OrphaNumber>495875</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=495875</ExpertLink>
                         <Name lang="en">Congenital labioscrotal agenesis-cerebellar malformation-corneal dystrophy-facial dysmorphism syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28585">
+                        <OrphaNumber>567502</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567502</ExpertLink>
+                        <Name lang="en">B-cell immunodeficiency-limb anomaly-urogenital malformation syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

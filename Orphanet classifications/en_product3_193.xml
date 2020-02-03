@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2020-01-01 05:00:45" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
+<JDBOR date="2020-02-01 05:06:09" version="1.3.1 / 4.1.7 [2019-11-24] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -728,7 +728,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=181402</ExpertLink>
                         <Name lang="en">Syndrome with hypoparathyroidism</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="9">
+                      <ClassificationNodeChildList count="8">
                         <ClassificationNode>
                           <Disorder id="61">
                             <OrphaNumber>480</OrphaNumber>
@@ -815,15 +815,6 @@
                             <OrphaNumber>5</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=5</ExpertLink>
                             <Name lang="en">Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="20051">
-                            <OrphaNumber>263417</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263417</ExpertLink>
-                            <Name lang="en">Bartter syndrome with hypocalcemia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8398,7 +8389,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276525</ExpertLink>
                     <Name lang="en">Familial hyperinsulinism</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="4">
                     <ClassificationNode>
                       <Disorder id="1025">
                         <OrphaNumber>657</OrphaNumber>
@@ -8575,6 +8566,15 @@
                         <OrphaNumber>276608</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=276608</ExpertLink>
                         <Name lang="en">Adult-onset non-insulinoma persistent hyperinsulinemic hypoglycemia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28092">
+                        <OrphaNumber>544628</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=544628</ExpertLink>
+                        <Name lang="en">Atypical Fanconi syndrome-neonatal hyperinsulinism syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

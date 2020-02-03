@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2020-01-01 05:00:55" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
+<JDBOR date="2020-02-01 05:06:19" version="1.3.1 / 4.1.7 [2019-11-24] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -5201,7 +5201,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139393</ExpertLink>
                         <Name lang="en">Syndromic craniosynostosis</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="40">
+                      <ClassificationNodeChildList count="41">
                         <ClassificationNode>
                           <Disorder id="244">
                             <OrphaNumber>207</OrphaNumber>
@@ -5666,6 +5666,15 @@
                             <OrphaNumber>457193</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457193</ExpertLink>
                             <Name lang="en">Autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28451">
+                            <OrphaNumber>565858</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=565858</ExpertLink>
+                            <Name lang="en">Craniosynostosis-microretrognathia-several intellectual disability syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -8639,12 +8648,21 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=294959</ExpertLink>
                         <Name lang="en">Syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="46">
+                      <ClassificationNodeChildList count="47">
                         <ClassificationNode>
                           <Disorder id="2956">
                             <OrphaNumber>3332</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3332</ExpertLink>
                             <Name lang="en">Hypoplastic tibiae-postaxial polydactyly syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28585">
+                            <OrphaNumber>567502</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567502</ExpertLink>
+                            <Name lang="en">B-cell immunodeficiency-limb anomaly-urogenital malformation syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -9444,14 +9462,23 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399158</ExpertLink>
                 <Name lang="en">Osteonecrosis</Name>
               </Disorder>
-              <ClassificationNodeChildList count="7">
+              <ClassificationNodeChildList count="8">
+                <ClassificationNode>
+                  <Disorder id="28560">
+                    <OrphaNumber>566943</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=566943</ExpertLink>
+                    <Name lang="en">Mueller-Weiss syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
                 <ClassificationNode>
                   <Disorder id="22759">
                     <OrphaNumber>399319</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399319</ExpertLink>
                     <Name lang="en">Osteochondrosis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="10">
                     <ClassificationNode>
                       <Disorder id="579">
                         <OrphaNumber>3135</OrphaNumber>
@@ -9520,6 +9547,24 @@
                         <OrphaNumber>97337</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97337</ExpertLink>
                         <Name lang="en">Sinding-Larsen-Johansson disease</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28397">
+                        <OrphaNumber>564003</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=564003</ExpertLink>
+                        <Name lang="en">Osteochondrosis of the metatarsal bone</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28396">
+                        <OrphaNumber>563991</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=563991</ExpertLink>
+                        <Name lang="en">Osteochondrosis of the tarsal bone</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

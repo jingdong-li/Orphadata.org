@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2020-01-01 05:00:39" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
+<JDBOR date="2020-02-01 05:06:04" version="1.3.1 / 4.1.7 [2019-11-24] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -433,7 +433,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93547</ExpertLink>
                     <Name lang="en">Syndromic renal or urinary tract malformation</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="64">
+                  <ClassificationNodeChildList count="63">
                     <ClassificationNode>
                       <Disorder id="44">
                         <OrphaNumber>881</OrphaNumber>
@@ -1092,15 +1092,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="12922">
-                        <OrphaNumber>97548</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97548</ExpertLink>
-                        <Name lang="en">Right sided atrial isomerism</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="18829">
                         <OrphaNumber>217266</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217266</ExpertLink>
@@ -1182,186 +1173,537 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93548</ExpertLink>
                 <Name lang="en">Glomerular disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="8">
+              <ClassificationNodeChildList count="7">
                 <ClassificationNode>
-                  <Disorder id="21112">
-                    <OrphaNumber>300333</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300333</ExpertLink>
-                    <Name lang="en">Nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome</Name>
+                  <Disorder id="28588">
+                    <OrphaNumber>567544</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567544</ExpertLink>
+                    <Name lang="en">Idiopathic non-lupus full-house nephropathy</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="12393">
-                    <OrphaNumber>93551</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93551</ExpertLink>
-                    <Name lang="en">Secondary glomerular disease</Name>
+                  <Disorder id="28593">
+                    <OrphaNumber>567554</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567554</ExpertLink>
+                    <Name lang="en">Systemic disease with glomerulopathy as a major feature</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="37">
+                  <ClassificationNodeChildList count="2">
                     <ClassificationNode>
-                      <Disorder id="124">
-                        <OrphaNumber>536</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536</ExpertLink>
-                        <Name lang="en">Systemic lupus erythematosus</Name>
+                      <Disorder id="28594">
+                        <OrphaNumber>567556</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567556</ExpertLink>
+                        <Name lang="en">Genetic systemic disease with glomerulopathy as a major feature</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="700">
-                        <OrphaNumber>732</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=732</ExpertLink>
-                        <Name lang="en">Polymyositis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="701">
-                        <OrphaNumber>221</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221</ExpertLink>
-                        <Name lang="en">Dermatomyositis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="703">
-                        <OrphaNumber>117</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=117</ExpertLink>
-                        <Name lang="en">Behçet disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="735">
-                        <OrphaNumber>797</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=797</ExpertLink>
-                        <Name lang="en">Sarcoidosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="745">
-                        <OrphaNumber>183</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=183</ExpertLink>
-                        <Name lang="en">Eosinophilic granulomatosis with polyangiitis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="747">
-                        <OrphaNumber>375</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=375</ExpertLink>
-                        <Name lang="en">Anti-glomerular basement membrane disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="749">
-                        <OrphaNumber>761</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=761</ExpertLink>
-                        <Name lang="en">Immunoglobulin A vasculitis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="753">
-                        <OrphaNumber>727</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=727</ExpertLink>
-                        <Name lang="en">Microscopic polyangiitis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="759">
-                        <OrphaNumber>900</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=900</ExpertLink>
-                        <Name lang="en">Granulomatosis with polyangiitis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="806">
-                        <OrphaNumber>3287</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3287</ExpertLink>
-                        <Name lang="en">Takayasu arteritis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="876">
-                        <OrphaNumber>397</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397</ExpertLink>
-                        <Name lang="en">Giant cell arteritis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="920">
-                        <OrphaNumber>342</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=342</ExpertLink>
-                        <Name lang="en">Familial Mediterranean fever</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="2375">
-                        <OrphaNumber>575</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=575</ExpertLink>
-                        <Name lang="en">Muckle-Wells syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="3403">
-                        <OrphaNumber>767</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=767</ExpertLink>
-                        <Name lang="en">Polyarteritis nodosa</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
+                      <ClassificationNodeChildList count="5">
                         <ClassificationNode>
-                          <Disorder id="23387">
-                            <OrphaNumber>439737</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439737</ExpertLink>
-                            <Name lang="en">Primary polyarteritis nodosa</Name>
+                          <Disorder id="2375">
+                            <OrphaNumber>575</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=575</ExpertLink>
+                            <Name lang="en">Muckle-Wells syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11722">
+                            <OrphaNumber>85450</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85450</ExpertLink>
+                            <Name lang="en">Hereditary amyloidosis with primary renal involvement</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="4">
+                            <ClassificationNode>
+                              <Disorder id="12402">
+                                <OrphaNumber>93560</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93560</ExpertLink>
+                                <Name lang="en">AApoAI amyloidosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="12403">
+                                <OrphaNumber>93561</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93561</ExpertLink>
+                                <Name lang="en">ALys amyloidosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="12404">
+                                <OrphaNumber>93562</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93562</ExpertLink>
+                                <Name lang="en">AFib amyloidosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="19260">
+                                <OrphaNumber>238269</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238269</ExpertLink>
+                                <Name lang="en">AApoAII amyloidosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23481">
+                            <OrphaNumber>444092</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444092</ExpertLink>
+                            <Name lang="en">Autoimmune interstitial lung disease-arthritis syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="10428">
+                            <OrphaNumber>36412</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=36412</ExpertLink>
+                            <Name lang="en">Hypocomplementemic urticarial vasculitis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="920">
+                            <OrphaNumber>342</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=342</ExpertLink>
+                            <Name lang="en">Familial Mediterranean fever</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28595">
+                        <OrphaNumber>567558</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567558</ExpertLink>
+                        <Name lang="en">Non-genetic systemic disease with glomerulopathy as a major feature</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="18">
+                        <ClassificationNode>
+                          <Disorder id="12410">
+                            <OrphaNumber>93568</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93568</ExpertLink>
+                            <Name lang="en">Juvenile polymyositis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="735">
+                            <OrphaNumber>797</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=797</ExpertLink>
+                            <Name lang="en">Sarcoidosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="700">
+                            <OrphaNumber>732</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=732</ExpertLink>
+                            <Name lang="en">Polymyositis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="12002">
+                            <OrphaNumber>90291</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90291</ExpertLink>
+                            <Name lang="en">Systemic sclerosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="4">
+                            <ClassificationNode>
+                              <Disorder id="12001">
+                                <OrphaNumber>90290</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90290</ExpertLink>
+                                <Name lang="en">CREST syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="18905">
+                                <OrphaNumber>220393</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220393</ExpertLink>
+                                <Name lang="en">Diffuse cutaneous systemic sclerosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="18906">
+                                <OrphaNumber>220402</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220402</ExpertLink>
+                                <Name lang="en">Limited cutaneous systemic sclerosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="18907">
+                                <OrphaNumber>220407</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220407</ExpertLink>
+                                <Name lang="en">Limited systemic sclerosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23383">
+                            <OrphaNumber>439232</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439232</ExpertLink>
+                            <Name lang="en">AApoAIV amyloidosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="12114">
+                            <OrphaNumber>91137</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91137</ExpertLink>
+                            <Name lang="en">Immunotactoid or fibrillary glomerulopathy</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="12931">
+                                <OrphaNumber>97566</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97566</ExpertLink>
+                                <Name lang="en">Non-amyloid fibrillary glomerulopathy</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="12932">
+                                <OrphaNumber>97567</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97567</ExpertLink>
+                                <Name lang="en">Immunotactoid glomerulopathy</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28596">
+                            <OrphaNumber>567560</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567560</ExpertLink>
+                            <Name lang="en">Systemic vasculitis associated with glomerulopathy</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="14">
+                            <ClassificationNode>
+                              <Disorder id="124">
+                                <OrphaNumber>536</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=536</ExpertLink>
+                                <Name lang="en">Systemic lupus erythematosus</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="753">
+                                <OrphaNumber>727</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=727</ExpertLink>
+                                <Name lang="en">Microscopic polyangiitis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="3403">
+                                <OrphaNumber>767</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=767</ExpertLink>
+                                <Name lang="en">Polyarteritis nodosa</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="23387">
+                                    <OrphaNumber>439737</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439737</ExpertLink>
+                                    <Name lang="en">Primary polyarteritis nodosa</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="3">
+                                    <ClassificationNode>
+                                      <Disorder id="23386">
+                                        <OrphaNumber>439729</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439729</ExpertLink>
+                                        <Name lang="en">Cutaneous polyarteritis nodosa</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="23389">
+                                        <OrphaNumber>439755</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439755</ExpertLink>
+                                        <Name lang="en">Single-organ polyarteritis nodosa</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="23390">
+                                        <OrphaNumber>439762</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439762</ExpertLink>
+                                        <Name lang="en">Systemic polyarteritis nodosa</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="23388">
+                                    <OrphaNumber>439746</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439746</ExpertLink>
+                                    <Name lang="en">Secondary polyarteritis nodosa</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="759">
+                                <OrphaNumber>900</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=900</ExpertLink>
+                                <Name lang="en">Granulomatosis with polyangiitis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="747">
+                                <OrphaNumber>375</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=375</ExpertLink>
+                                <Name lang="en">Anti-glomerular basement membrane disease</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="749">
+                                <OrphaNumber>761</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=761</ExpertLink>
+                                <Name lang="en">Immunoglobulin A vasculitis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="12394">
+                                <OrphaNumber>93552</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93552</ExpertLink>
+                                <Name lang="en">Pediatric systemic lupus erythematosus</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="745">
+                                <OrphaNumber>183</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=183</ExpertLink>
+                                <Name lang="en">Eosinophilic granulomatosis with polyangiitis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="8682">
+                                <OrphaNumber>728</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=728</ExpertLink>
+                                <Name lang="en">Relapsing polychondritis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="876">
+                                <OrphaNumber>397</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=397</ExpertLink>
+                                <Name lang="en">Giant cell arteritis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="12115">
+                                <OrphaNumber>91138</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91138</ExpertLink>
+                                <Name lang="en">Cryoglobulinemic vasculitis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="12396">
+                                    <OrphaNumber>93554</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93554</ExpertLink>
+                                    <Name lang="en">Type II mixed cryoglobulinemia</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12397">
+                                    <OrphaNumber>93555</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93555</ExpertLink>
+                                    <Name lang="en">Mixed cryoglobulinemia type III</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="10414">
+                                <OrphaNumber>36258</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=36258</ExpertLink>
+                                <Name lang="en">Buerger disease</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="806">
+                                <OrphaNumber>3287</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3287</ExpertLink>
+                                <Name lang="en">Takayasu arteritis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="12170">
+                                <OrphaNumber>93126</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93126</ExpertLink>
+                                <Name lang="en">Pauci-immune glomerulonephritis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="2">
+                                <ClassificationNode>
+                                  <Disorder id="12929">
+                                    <OrphaNumber>97563</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97563</ExpertLink>
+                                    <Name lang="en">Pauci-immune glomerulonephritis with ANCA</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="12930">
+                                    <OrphaNumber>97564</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97564</ExpertLink>
+                                    <Name lang="en">Pauci-immune glomerulonephritis without ANCA</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11717">
+                            <OrphaNumber>85443</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85443</ExpertLink>
+                            <Name lang="en">AL amyloidosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="21517">
+                                <OrphaNumber>314701</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314701</ExpertLink>
+                                <Name lang="en">Primary systemic amyloidosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="21518">
+                                <OrphaNumber>314709</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314709</ExpertLink>
+                                <Name lang="en">Primary localized amyloidosis</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="12464">
+                            <OrphaNumber>93672</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93672</ExpertLink>
+                            <Name lang="en">Juvenile dermatomyositis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="703">
+                            <OrphaNumber>117</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=117</ExpertLink>
+                            <Name lang="en">Behçet disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="3631">
+                            <OrphaNumber>809</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=809</ExpertLink>
+                            <Name lang="en">Mixed connective tissue disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="23424">
+                            <OrphaNumber>442582</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=442582</ExpertLink>
+                            <Name lang="en">AH amyloidosis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="11760">
+                            <OrphaNumber>86861</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86861</ExpertLink>
+                            <Name lang="en">Non-amyloid monoclonal immunoglobulin deposition disease</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="3">
                             <ClassificationNode>
-                              <Disorder id="23386">
-                                <OrphaNumber>439729</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439729</ExpertLink>
-                                <Name lang="en">Cutaneous polyarteritis nodosa</Name>
+                              <Disorder id="12398">
+                                <OrphaNumber>93556</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93556</ExpertLink>
+                                <Name lang="en">Heavy chain deposition disease</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="23389">
-                                <OrphaNumber>439755</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439755</ExpertLink>
-                                <Name lang="en">Single-organ polyarteritis nodosa</Name>
+                              <Disorder id="12399">
+                                <OrphaNumber>93557</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93557</ExpertLink>
+                                <Name lang="en">Light and heavy chain deposition disease</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="23390">
-                                <OrphaNumber>439762</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439762</ExpertLink>
-                                <Name lang="en">Systemic polyarteritis nodosa</Name>
+                              <Disorder id="12400">
+                                <OrphaNumber>93558</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93558</ExpertLink>
+                                <Name lang="en">Light chain deposition disease</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1369,394 +1711,151 @@
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="23388">
-                            <OrphaNumber>439746</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439746</ExpertLink>
-                            <Name lang="en">Secondary polyarteritis nodosa</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="3631">
-                        <OrphaNumber>809</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=809</ExpertLink>
-                        <Name lang="en">Mixed connective tissue disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="5525">
-                        <OrphaNumber>829</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=829</ExpertLink>
-                        <Name lang="en">Adult-onset Still disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="8608">
-                        <OrphaNumber>779</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=779</ExpertLink>
-                        <Name lang="en">Reynolds syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="8682">
-                        <OrphaNumber>728</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=728</ExpertLink>
-                        <Name lang="en">Relapsing polychondritis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="10414">
-                        <OrphaNumber>36258</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=36258</ExpertLink>
-                        <Name lang="en">Buerger disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="10428">
-                        <OrphaNumber>36412</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=36412</ExpertLink>
-                        <Name lang="en">Hypocomplementemic urticarial vasculitis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11614">
-                        <OrphaNumber>84087</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=84087</ExpertLink>
-                        <Name lang="en">Collagen type III glomerulopathy</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11717">
-                        <OrphaNumber>85443</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85443</ExpertLink>
-                        <Name lang="en">AL amyloidosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="21517">
-                            <OrphaNumber>314701</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314701</ExpertLink>
-                            <Name lang="en">Primary systemic amyloidosis</Name>
+                          <Disorder id="701">
+                            <OrphaNumber>221</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221</ExpertLink>
+                            <Name lang="en">Dermatomyositis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="21518">
-                            <OrphaNumber>314709</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=314709</ExpertLink>
-                            <Name lang="en">Primary localized amyloidosis</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11718">
-                        <OrphaNumber>85445</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85445</ExpertLink>
-                        <Name lang="en">AA amyloidosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11722">
-                        <OrphaNumber>85450</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85450</ExpertLink>
-                        <Name lang="en">Hereditary amyloidosis with primary renal involvement</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="4">
-                        <ClassificationNode>
-                          <Disorder id="12402">
-                            <OrphaNumber>93560</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93560</ExpertLink>
-                            <Name lang="en">AApoAI amyloidosis</Name>
+                          <Disorder id="11718">
+                            <OrphaNumber>85445</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=85445</ExpertLink>
+                            <Name lang="en">AA amyloidosis</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="12403">
-                            <OrphaNumber>93561</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93561</ExpertLink>
-                            <Name lang="en">ALys amyloidosis</Name>
+                          <Disorder id="23618">
+                            <OrphaNumber>449395</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=449395</ExpertLink>
+                            <Name lang="en">IgG4-related kidney disease</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="12404">
-                            <OrphaNumber>93562</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93562</ExpertLink>
-                            <Name lang="en">AFib amyloidosis</Name>
+                          <Disorder id="5525">
+                            <OrphaNumber>829</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=829</ExpertLink>
+                            <Name lang="en">Adult-onset Still disease</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="19260">
-                            <OrphaNumber>238269</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=238269</ExpertLink>
-                            <Name lang="en">AApoAII amyloidosis</Name>
+                          <Disorder id="8608">
+                            <OrphaNumber>779</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=779</ExpertLink>
+                            <Name lang="en">Reynolds syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="11760">
-                        <OrphaNumber>86861</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86861</ExpertLink>
-                        <Name lang="en">Non-amyloid monoclonal immunoglobulin deposition disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="3">
-                        <ClassificationNode>
-                          <Disorder id="12398">
-                            <OrphaNumber>93556</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93556</ExpertLink>
-                            <Name lang="en">Heavy chain deposition disease</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12399">
-                            <OrphaNumber>93557</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93557</ExpertLink>
-                            <Name lang="en">Light and heavy chain deposition disease</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12400">
-                            <OrphaNumber>93558</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93558</ExpertLink>
-                            <Name lang="en">Light chain deposition disease</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12002">
-                        <OrphaNumber>90291</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90291</ExpertLink>
-                        <Name lang="en">Systemic sclerosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="4">
-                        <ClassificationNode>
-                          <Disorder id="12001">
-                            <OrphaNumber>90290</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90290</ExpertLink>
-                            <Name lang="en">CREST syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="18905">
-                            <OrphaNumber>220393</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220393</ExpertLink>
-                            <Name lang="en">Diffuse cutaneous systemic sclerosis</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="18906">
-                            <OrphaNumber>220402</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220402</ExpertLink>
-                            <Name lang="en">Limited cutaneous systemic sclerosis</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="18907">
-                            <OrphaNumber>220407</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220407</ExpertLink>
-                            <Name lang="en">Limited systemic sclerosis</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12114">
-                        <OrphaNumber>91137</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91137</ExpertLink>
-                        <Name lang="en">Immunotactoid or fibrillary glomerulopathy</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="12931">
-                            <OrphaNumber>97566</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97566</ExpertLink>
-                            <Name lang="en">Non-amyloid fibrillary glomerulopathy</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12932">
-                            <OrphaNumber>97567</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97567</ExpertLink>
-                            <Name lang="en">Immunotactoid glomerulopathy</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12115">
-                        <OrphaNumber>91138</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=91138</ExpertLink>
-                        <Name lang="en">Cryoglobulinemic vasculitis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="12396">
-                            <OrphaNumber>93554</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93554</ExpertLink>
-                            <Name lang="en">Type II mixed cryoglobulinemia</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12397">
-                            <OrphaNumber>93555</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93555</ExpertLink>
-                            <Name lang="en">Mixed cryoglobulinemia type III</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12170">
-                        <OrphaNumber>93126</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93126</ExpertLink>
-                        <Name lang="en">Pauci-immune glomerulonephritis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="12929">
-                            <OrphaNumber>97563</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97563</ExpertLink>
-                            <Name lang="en">Pauci-immune glomerulonephritis with ANCA</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12930">
-                            <OrphaNumber>97564</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97564</ExpertLink>
-                            <Name lang="en">Pauci-immune glomerulonephritis without ANCA</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12394">
-                        <OrphaNumber>93552</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93552</ExpertLink>
-                        <Name lang="en">Pediatric systemic lupus erythematosus</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12410">
-                        <OrphaNumber>93568</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93568</ExpertLink>
-                        <Name lang="en">Juvenile polymyositis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="12464">
-                        <OrphaNumber>93672</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93672</ExpertLink>
-                        <Name lang="en">Juvenile dermatomyositis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="23383">
-                        <OrphaNumber>439232</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=439232</ExpertLink>
-                        <Name lang="en">AApoAIV amyloidosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="23424">
-                        <OrphaNumber>442582</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=442582</ExpertLink>
-                        <Name lang="en">AH amyloidosis</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="23481">
-                        <OrphaNumber>444092</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444092</ExpertLink>
-                        <Name lang="en">Autoimmune interstitial lung disease-arthritis syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="23618">
-                        <OrphaNumber>449395</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=449395</ExpertLink>
-                        <Name lang="en">IgG4-related kidney disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="14975">
-                    <OrphaNumber>102373</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102373</ExpertLink>
-                    <Name lang="en">Primary glomerular disease</Name>
+                  <Disorder id="28598">
+                    <OrphaNumber>567564</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567564</ExpertLink>
+                    <Name lang="en">Nephrotic syndrome without extrarenal manifestations</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="18">
+                  <ClassificationNodeChildList count="2">
+                    <ClassificationNode>
+                      <Disorder id="22226">
+                        <OrphaNumber>357502</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=357502</ExpertLink>
+                        <Name lang="en">Idiopathic nephrotic syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="3">
+                        <ClassificationNode>
+                          <Disorder id="28590">
+                            <OrphaNumber>567548</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567548</ExpertLink>
+                            <Name lang="en">Idiopathic steroid-resistant nephrotic syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="2">
+                            <ClassificationNode>
+                              <Disorder id="28592">
+                                <OrphaNumber>567552</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567552</ExpertLink>
+                                <Name lang="en">Idiopathic steroid-resistant nephrotic syndrome with sensitivity to second-line immunosuppressive therapy</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="28591">
+                                <OrphaNumber>567550</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567550</ExpertLink>
+                                <Name lang="en">Idiopathic multidrug-resistant nephrotic syndrome</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28589">
+                            <OrphaNumber>567546</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567546</ExpertLink>
+                            <Name lang="en">Idiopathic steroid-sensitive nephrotic syndrome with secondary steroid resistance</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="10910">
+                            <OrphaNumber>69061</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69061</ExpertLink>
+                            <Name lang="en">Idiopathic steroid-sensitive nephrotic syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28398">
+                        <OrphaNumber>564127</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=564127</ExpertLink>
+                        <Name lang="en">Genetic nephrotic syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="4048">
+                            <OrphaNumber>839</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=839</ExpertLink>
+                            <Name lang="en">Congenital nephrotic syndrome, Finnish type</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="3551">
+                            <OrphaNumber>656</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=656</ExpertLink>
+                            <Name lang="en">Genetic steroid-resistant nephrotic syndrome</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28597">
+                    <OrphaNumber>567562</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=567562</ExpertLink>
+                    <Name lang="en">Disorder with multisystemic involvement and glomerulopathy</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="21">
                     <ClassificationNode>
                       <Disorder id="392">
                         <OrphaNumber>2614</OrphaNumber>
@@ -1803,6 +1902,15 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
+                      <Disorder id="2476">
+                        <OrphaNumber>2715</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2715</ExpertLink>
+                        <Name lang="en">Severe oculo-renal-cerebellar syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
                       <Disorder id="3552">
                         <OrphaNumber>220</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=220</ExpertLink>
@@ -1821,48 +1929,21 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="10755">
-                        <OrphaNumber>54370</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=54370</ExpertLink>
-                        <Name lang="en">Primary membranoproliferative glomerulonephritis</Name>
+                      <Disorder id="21112">
+                        <OrphaNumber>300333</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=300333</ExpertLink>
+                        <Name lang="en">Nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="21946">
-                            <OrphaNumber>329903</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329903</ExpertLink>
-                            <Name lang="en">Immunoglobulin-mediated membranoproliferative glomerulonephritis</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="21947">
-                            <OrphaNumber>329918</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329918</ExpertLink>
-                            <Name lang="en">C3 glomerulopathy</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="2">
-                            <ClassificationNode>
-                              <Disorder id="12413">
-                                <OrphaNumber>93571</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93571</ExpertLink>
-                                <Name lang="en">Dense deposit disease</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="21948">
-                                <OrphaNumber>329931</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329931</ExpertLink>
-                                <Name lang="en">C3 glomerulonephritis</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="21219">
+                        <OrphaNumber>306504</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306504</ExpertLink>
+                        <Name lang="en">Junctional epidermolysis bullosa with respiratory and renal involvement</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -1884,15 +1965,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="11615">
-                        <OrphaNumber>84090</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=84090</ExpertLink>
-                        <Name lang="en">Fibronectin glomerulopathy</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="12169">
                         <OrphaNumber>93114</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93114</ExpertLink>
@@ -1902,10 +1974,37 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="12927">
-                        <OrphaNumber>97560</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97560</ExpertLink>
-                        <Name lang="en">Primary membranous glomerulonephritis</Name>
+                      <Disorder id="19815">
+                        <OrphaNumber>255249</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=255249</ExpertLink>
+                        <Name lang="en">Leigh syndrome with nephrotic syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="20470">
+                        <OrphaNumber>280406</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280406</ExpertLink>
+                        <Name lang="en">Familial steroid-resistant nephrotic syndrome with sensorineural deafness</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="26449">
+                        <OrphaNumber>506334</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506334</ExpertLink>
+                        <Name lang="en">Familial steroid-resistant nephrotic syndrome with adrenal insufficiency</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="11615">
+                        <OrphaNumber>84090</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=84090</ExpertLink>
+                        <Name lang="en">Fibronectin glomerulopathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1938,50 +2037,14 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="22226">
-                        <OrphaNumber>357502</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=357502</ExpertLink>
-                        <Name lang="en">Idiopathic nephrotic syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
-                        <ClassificationNode>
-                          <Disorder id="3551">
-                            <OrphaNumber>656</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=656</ExpertLink>
-                            <Name lang="en">Genetic steroid-resistant nephrotic syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="10910">
-                            <OrphaNumber>69061</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69061</ExpertLink>
-                            <Name lang="en">Idiopathic steroid-sensitive nephrotic syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="2476">
-                        <OrphaNumber>2715</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2715</ExpertLink>
-                        <Name lang="en">Severe Oculo-Renal-Cerebellar syndrome</Name>
+                      <Disorder id="11614">
+                        <OrphaNumber>84087</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=84087</ExpertLink>
+                        <Name lang="en">Collagen type III glomerulopathy</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="21219">
-                    <OrphaNumber>306504</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306504</ExpertLink>
-                    <Name lang="en">Junctional epidermolysis bullosa with respiratory and renal involvement</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
@@ -2048,28 +2111,55 @@
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="4048">
-                    <OrphaNumber>839</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=839</ExpertLink>
-                    <Name lang="en">Congenital nephrotic syndrome, Finnish type</Name>
+                  <Disorder id="10755">
+                    <OrphaNumber>54370</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=54370</ExpertLink>
+                    <Name lang="en">Primary membranoproliferative glomerulonephritis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="0">
+                  <ClassificationNodeChildList count="2">
+                    <ClassificationNode>
+                      <Disorder id="21946">
+                        <OrphaNumber>329903</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329903</ExpertLink>
+                        <Name lang="en">Immunoglobulin-mediated membranoproliferative glomerulonephritis</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="21947">
+                        <OrphaNumber>329918</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329918</ExpertLink>
+                        <Name lang="en">C3 glomerulopathy</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="2">
+                        <ClassificationNode>
+                          <Disorder id="12413">
+                            <OrphaNumber>93571</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93571</ExpertLink>
+                            <Name lang="en">Dense deposit disease</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="21948">
+                            <OrphaNumber>329931</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=329931</ExpertLink>
+                            <Name lang="en">C3 glomerulonephritis</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                   </ClassificationNodeChildList>
                 </ClassificationNode>
                 <ClassificationNode>
-                  <Disorder id="20470">
-                    <OrphaNumber>280406</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280406</ExpertLink>
-                    <Name lang="en">Familial steroid-resistant nephrotic syndrome with sensorineural deafness</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
-                <ClassificationNode>
-                  <Disorder id="26449">
-                    <OrphaNumber>506334</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506334</ExpertLink>
-                    <Name lang="en">Familial steroid-resistant nephrotic syndrome with adrenal insufficiency</Name>
+                  <Disorder id="12927">
+                    <OrphaNumber>97560</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97560</ExpertLink>
+                    <Name lang="en">Primary membranous glomerulonephritis</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
@@ -2404,7 +2494,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352</ExpertLink>
                     <Name lang="en">Galactosemia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="4">
                     <ClassificationNode>
                       <Disorder id="11263">
                         <OrphaNumber>79237</OrphaNumber>
@@ -2446,6 +2536,15 @@
                         <OrphaNumber>79239</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79239</ExpertLink>
                         <Name lang="en">Classic galactosemia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28673">
+                        <OrphaNumber>570422</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=570422</ExpertLink>
+                        <Name lang="en">Galactose mutarotase deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3207,10 +3306,10 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="20051">
-                        <OrphaNumber>263417</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=263417</ExpertLink>
-                        <Name lang="en">Bartter syndrome with hypocalcemia</Name>
+                      <Disorder id="28672">
+                        <OrphaNumber>570371</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=570371</ExpertLink>
+                        <Name lang="en">Transient antenatal Bartter syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3295,7 +3394,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=34526</ExpertLink>
                     <Name lang="en">Genetic primary hypomagnesemia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="3">
+                  <ClassificationNodeChildList count="4">
+                    <ClassificationNode>
+                      <Disorder id="28399">
+                        <OrphaNumber>564178</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=564178</ExpertLink>
+                        <Name lang="en">Primary hypomagnesemia with refractory seizures and intellectual disability</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="21222">
                         <OrphaNumber>306516</OrphaNumber>
@@ -3963,16 +4071,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93618</ExpertLink>
                 <Name lang="en">Rare cause of hypertension</Name>
               </Disorder>
-              <ClassificationNodeChildList count="3">
-                <ClassificationNode>
-                  <Disorder id="3731">
-                    <OrphaNumber>1501</OrphaNumber>
-                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1501</ExpertLink>
-                    <Name lang="en">Adrenocortical carcinoma</Name>
-                  </Disorder>
-                  <ClassificationNodeChildList count="0">
-                  </ClassificationNodeChildList>
-                </ClassificationNode>
+              <ClassificationNodeChildList count="2">
                 <ClassificationNode>
                   <Disorder id="12937">
                     <OrphaNumber>97598</OrphaNumber>
@@ -3988,7 +4087,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156629</ExpertLink>
                     <Name lang="en">Rare genetic cause of hypertension</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="13">
+                  <ClassificationNodeChildList count="11">
                     <ClassificationNode>
                       <Disorder id="145">
                         <OrphaNumber>904</OrphaNumber>
@@ -4023,15 +4122,6 @@
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="913">
-                        <OrphaNumber>403</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=403</ExpertLink>
-                        <Name lang="en">Familial hyperaldosteronism type I</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
@@ -4152,35 +4242,35 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="14392">
-                        <OrphaNumber>99819</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99819</ExpertLink>
-                        <Name lang="en">Familial gestational hyperthyroidism</Name>
+                      <Disorder id="19251">
+                        <OrphaNumber>235936</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=235936</ExpertLink>
+                        <Name lang="en">Familial hyperaldosteronism</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="8739">
-                        <OrphaNumber>756</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=756</ExpertLink>
-                        <Name lang="en">Pseudohypoaldosteronism type 1</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="2">
+                      <ClassificationNodeChildList count="3">
                         <ClassificationNode>
-                          <Disorder id="17947">
-                            <OrphaNumber>171871</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171871</ExpertLink>
-                            <Name lang="en">Renal pseudohypoaldosteronism type 1</Name>
+                          <Disorder id="8738">
+                            <OrphaNumber>404</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=404</ExpertLink>
+                            <Name lang="en">Familial hyperaldosteronism type II</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
-                          <Disorder id="17948">
-                            <OrphaNumber>171876</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171876</ExpertLink>
-                            <Name lang="en">Generalized pseudohypoaldosteronism type 1</Name>
+                          <Disorder id="913">
+                            <OrphaNumber>403</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=403</ExpertLink>
+                            <Name lang="en">Familial hyperaldosteronism type I</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="19618">
+                            <OrphaNumber>251274</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251274</ExpertLink>
+                            <Name lang="en">Familial hyperaldosteronism type III</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

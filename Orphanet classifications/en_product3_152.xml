@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2020-01-01 04:59:53" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
+<JDBOR date="2020-02-01 05:05:17" version="1.3.1 / 4.1.7 [2019-11-24] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -723,7 +723,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=117569</ExpertLink>
                 <Name lang="en">Rare intestinal disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="30">
+              <ClassificationNodeChildList count="31">
                 <ClassificationNode>
                   <Disorder id="789">
                     <OrphaNumber>3452</OrphaNumber>
@@ -757,7 +757,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=36204</ExpertLink>
                     <Name lang="en">Intestinal lymphangiectasia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="2">
+                  <ClassificationNodeChildList count="3">
                     <ClassificationNode>
                       <Disorder id="12030">
                         <OrphaNumber>90362</OrphaNumber>
@@ -772,6 +772,15 @@
                         <OrphaNumber>90363</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90363</ExpertLink>
                         <Name lang="en">Secondary intestinal lymphangiectasia</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="28482">
+                        <OrphaNumber>566175</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=566175</ExpertLink>
+                        <Name lang="en">Complement hyperactivation-angiopathic thrombosis-protein-losing enteropathy syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1927,7 +1936,16 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=104012</ExpertLink>
                     <Name lang="en">Rare inflammatory bowel disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="8">
+                  <ClassificationNodeChildList count="9">
+                    <ClassificationNode>
+                      <Disorder id="28482">
+                        <OrphaNumber>566175</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=566175</ExpertLink>
+                        <Name lang="en">Complement hyperactivation-angiopathic thrombosis-protein-losing enteropathy syndrome</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
                     <ClassificationNode>
                       <Disorder id="176">
                         <OrphaNumber>379</OrphaNumber>
@@ -2142,6 +2160,15 @@
                     <OrphaNumber>436166</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=436166</ExpertLink>
                     <Name lang="en">Periodic fever-infantile enterocolitis-autoinflammatory syndrome</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="28444">
+                    <OrphaNumber>565641</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=565641</ExpertLink>
+                    <Name lang="en">Primary desmosis coli</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

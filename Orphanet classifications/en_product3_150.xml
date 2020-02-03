@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2020-01-01 04:59:51" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
+<JDBOR date="2020-02-01 05:05:16" version="1.3.1 / 4.1.7 [2019-11-24] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -2490,7 +2490,7 @@
                       <Disorder id="23367">
                         <OrphaNumber>438178</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=438178</ExpertLink>
-                        <Name lang="en">Severe intellectual disability-epilepsy-cataract syndrome due to fatty acyl-CoA reductase 1 deficiency</Name>
+                        <Name lang="en">Fatty acyl-CoA reductase 1 deficiency</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5003,7 +5003,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352</ExpertLink>
                         <Name lang="en">Galactosemia</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="4">
                         <ClassificationNode>
                           <Disorder id="11263">
                             <OrphaNumber>79237</OrphaNumber>
@@ -5045,6 +5045,15 @@
                             <OrphaNumber>79239</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79239</ExpertLink>
                             <Name lang="en">Classic galactosemia</Name>
+                          </Disorder>
+                          <ClassificationNodeChildList count="0">
+                          </ClassificationNodeChildList>
+                        </ClassificationNode>
+                        <ClassificationNode>
+                          <Disorder id="28673">
+                            <OrphaNumber>570422</OrphaNumber>
+                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=570422</ExpertLink>
+                            <Name lang="en">Galactose mutarotase deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -5521,7 +5530,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=35696</ExpertLink>
                                 <Name lang="en">Mitochondrial disorder due to a defect in mitochondrial protein synthesis</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="41">
+                              <ClassificationNodeChildList count="43">
                                 <ClassificationNode>
                                   <Disorder id="1213">
                                     <OrphaNumber>2598</OrphaNumber>
@@ -5811,6 +5820,15 @@
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>
+                                  <Disorder id="28443">
+                                    <OrphaNumber>565624</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=565624</ExpertLink>
+                                    <Name lang="en">Combined oxidative phosphorylation defect type 39</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
                                   <Disorder id="27492">
                                     <OrphaNumber>528091</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=528091</ExpertLink>
@@ -5905,6 +5923,15 @@
                                     <OrphaNumber>478029</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=478029</ExpertLink>
                                     <Name lang="en">Combined oxidative phosphorylation defect type 29</Name>
+                                  </Disorder>
+                                  <ClassificationNodeChildList count="0">
+                                  </ClassificationNodeChildList>
+                                </ClassificationNode>
+                                <ClassificationNode>
+                                  <Disorder id="28677">
+                                    <OrphaNumber>570491</OrphaNumber>
+                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=570491</ExpertLink>
+                                    <Name lang="en">QRSL1-related combined oxidative phosphorylation defect</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
@@ -6095,7 +6122,16 @@
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289573</ExpertLink>
                                     <Name lang="en">Multiple mitochondrial dysfunctions syndrome</Name>
                                   </Disorder>
-                                  <ClassificationNodeChildList count="4">
+                                  <ClassificationNodeChildList count="6">
+                                    <ClassificationNode>
+                                      <Disorder id="28631">
+                                        <OrphaNumber>569290</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=569290</ExpertLink>
+                                        <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 6</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
                                     <ClassificationNode>
                                       <Disorder id="22301">
                                         <OrphaNumber>363424</OrphaNumber>
@@ -6128,6 +6164,15 @@
                                         <OrphaNumber>457406</OrphaNumber>
                                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457406</ExpertLink>
                                         <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 4</Name>
+                                      </Disorder>
+                                      <ClassificationNodeChildList count="0">
+                                      </ClassificationNodeChildList>
+                                    </ClassificationNode>
+                                    <ClassificationNode>
+                                      <Disorder id="28629">
+                                        <OrphaNumber>569274</OrphaNumber>
+                                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=569274</ExpertLink>
+                                        <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 5</Name>
                                       </Disorder>
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
@@ -6909,7 +6954,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=289573</ExpertLink>
                             <Name lang="en">Multiple mitochondrial dysfunctions syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="4">
+                          <ClassificationNodeChildList count="6">
+                            <ClassificationNode>
+                              <Disorder id="28631">
+                                <OrphaNumber>569290</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=569290</ExpertLink>
+                                <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 6</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="22301">
                                 <OrphaNumber>363424</OrphaNumber>
@@ -6942,6 +6996,15 @@
                                 <OrphaNumber>457406</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=457406</ExpertLink>
                                 <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 4</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="28629">
+                                <OrphaNumber>569274</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=569274</ExpertLink>
+                                <Name lang="en">Multiple mitochondrial dysfunctions syndrome type 5</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -8907,7 +8970,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=165</ExpertLink>
                             <Name lang="en">Neutral lipid storage disease</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
+                          <ClassificationNodeChildList count="3">
                             <ClassificationNode>
                               <Disorder id="13924">
                                 <OrphaNumber>98907</OrphaNumber>
@@ -8922,6 +8985,15 @@
                                 <OrphaNumber>98908</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98908</ExpertLink>
                                 <Name lang="en">Neutral lipid storage myopathy</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
+                            <ClassificationNode>
+                              <Disorder id="28442">
+                                <OrphaNumber>565612</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=565612</ExpertLink>
+                                <Name lang="en">Triglyceride deposit cardiomyovasculopathy</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -10104,7 +10176,16 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=34526</ExpertLink>
                             <Name lang="en">Genetic primary hypomagnesemia</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
+                          <ClassificationNodeChildList count="4">
+                            <ClassificationNode>
+                              <Disorder id="28399">
+                                <OrphaNumber>564178</OrphaNumber>
+                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=564178</ExpertLink>
+                                <Name lang="en">Primary hypomagnesemia with refractory seizures and intellectual disability</Name>
+                              </Disorder>
+                              <ClassificationNodeChildList count="0">
+                              </ClassificationNodeChildList>
+                            </ClassificationNode>
                             <ClassificationNode>
                               <Disorder id="21222">
                                 <OrphaNumber>306516</OrphaNumber>
